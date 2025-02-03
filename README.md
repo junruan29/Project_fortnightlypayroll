@@ -1,1 +1,1 @@
-# Project_fortnightlypayroll
+This project is a Fortnightly Payroll System developed in C#, designed to streamline the process of calculating employee wages on a bi-weekly basis. The system is built upon the company's existing employee income structure and is capable of automatically computing employees' fortnightly income, as well as applying the appropriate tax rates. It aims to reduce manual calculations, ensure accuracy, and improve the efficiency of payroll processing.
